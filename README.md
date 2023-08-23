@@ -5,22 +5,39 @@ This framework is designed for Extract - Transform - Load (ETL) operations, allo
 
 ## Project Tree
 ├── src
+
 │ ├── config
+
 │ ├── extract
+
 │ ├── transform
+
 │ ├── load
+
 │ └── db_interaction
+
 ├── logs
+
 ├── tests
+
 ├── data
+
 ├── docs
+
 ├── output
+
 ├── .gitignore
+
 ├── config.ini
+
 ├── etl_db.db
+
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
+
 
 ### Descriptions
 - **src**: Main source code directory.
