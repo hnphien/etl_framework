@@ -6,6 +6,8 @@ This framework is designed for Extract - Transform - Load (ETL) operations, allo
 ## Architecture
 ![image](https://github.com/hnphien/etl_framework/assets/51280965/919c348c-64d0-43ad-8cef-70ad950ee75c)
 
+## Extract flowchart
+![image](https://github.com/hnphien/etl_framework/assets/51280965/1acace15-8ea9-470d-804f-fff13dd5c7e3)
 
 
 ## Project Tree
