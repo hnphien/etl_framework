@@ -1,4 +1,4 @@
-# ETL Framework
+# Modular ETL Framework
 
 ## About
 This framework is designed for Extract - Transform - Load (ETL) operations, allowing you to process data from multiple source systems and load it into HDFS (Hadoop Distributed File System).
