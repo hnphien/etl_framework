@@ -3,6 +3,10 @@
 ## About
 This framework is designed for Extract - Transform - Load (ETL) operations, allowing you to process data from multiple source systems and load it into HDFS (Hadoop Distributed File System).
 
+## Architecture
+![image](https://github.com/hnphien/etl_framework/assets/51280965/df8380f3-06bb-48bd-a243-ab0710a40f01)
+
+
 ## Project Tree
 ├── src
 
